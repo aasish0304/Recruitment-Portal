@@ -1,12 +1,7 @@
-# Placement Portal
+# Recruitment Portal
   
- <b>  I developed a web application called "Placement Portal," which was a Placement Portal management system for a company. The main goal was to create an interface where employees could input data into the database and then download it in CSV format to compile various reports. <b> 
-# Deployed Link 
- <b>[Live Link](https://placement-cell-ol2b.onrender.com)</b>
- 
- <b>Test user</b>
-     <p>username: test@gmail.com</p>
-     <p>password: test </p>
+ <b>  I developed a web application called "Recruitment Portal," which was a Placement Portal management system for a company. The main goal was to create an interface where employees could input data into the database and then download it in CSV format to compile various reports. <b> 
+
 
 ## Table of Contents
 -  <b> [Features](#features)</b>
@@ -66,40 +61,4 @@
 -  <b> 6.Deployment </b>
    <p>The application was deployed using cloud services like render, depending on the preferred platform.</p>
 
-## Project Demo
- - <b> <i> Login Page  </i></b> <br><br>
- ![placement_cell_login](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/c630a65a-6272-4c82-b618-b6a29137f5fa)
 
--  <b> <i> Sign Up  Page  </i></b> <br><br>
-![Placement_cell_Signup](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/7695cf67-afe2-4899-b9fe-3f6e06e4c044)
-
--  <b> <i> Forget Password Page  </i></b> <br><br>
-
-![Placement_Cell_forget](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/10010f56-0ef3-494c-bc11-03a63b8f7929)
-
--  <b> <i> Home Page  </i></b> <br><br>
-![placement_cell_home](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/90576da3-65ef-4875-9fd8-9a3274a93bfc)
-
--  <b> <i> Students Details  Page  </i></b> <br><br>
-![placement_cell_students](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/2d9ab7ef-9cb2-4eec-88e2-f149b7d7c75f)
-
--  <b> <i> Interviews Details  Page  </i></b> <br><br>
-![placement_Cell_interviews](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/9d57cb47-5943-4eac-9091-d24447928a7a)
-
--  <b> <i> Interviews Company Details  Page  </i></b> <br><br>
-![interview_company_details](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/c6870aff-001e-4d75-ad4d-56a82b89e746)
-
--  <b> <i> Job Details  Page  </i></b> <br><br>
-![placement_Cell_JObs](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/b633c0d0-7e15-4a9b-8c79-8c34d5430dd8)
-
--  <b> <i> CSV File  </i></b> <br><br>
-
-![placement_cell_CSV](https://github.com/Sahil-Sayyad/Placement_Cell/assets/96423459/58abc198-9f83-46c7-a33a-508ec541a669)
-
-## Author
-
-
-- Name: Sahil Sayyad
-- GitHub: <a><b>[https://github.com/Sahil-Sayyad](https://github.com/Sahil-Sayyad/Placement_Cell)</a></b>
-- Email: 
-- Website: 
